@@ -37,10 +37,10 @@ These are demo credentials defined in the application.
 
 **Payroll staff portal**
 After logging in, choose one of these options:
-- **View All Employee Payroll** — see payroll summaries for employees.
-- **View One Employee Payroll** — enter an employee number when prompted
-- **Manage Employee Records** — add a new employee, or select a row to edit or delete it. Use Save Changes to keep an edit, Cancel to leave edit mode, and Clear to reset the form.
-- **Manage Attendance Records** — add, edit, or delete an attendance entry.
+1. **View All Employee Payroll** — see payroll summaries for employees.
+2. **View One Employee Payroll** — enter an employee number when prompted
+3. **Manage Employee Records** — add a new employee, or select a row to edit or delete it. Use Save Changes to keep an edit, Cancel to leave edit mode, and Clear to reset the form.
+4. **Manage Attendance Records** — add, edit, or delete an attendance entry.
 Use **Back** to return to the staff menu, or **Logout** to return to the login screen.
 
 ## Data Files
