@@ -15,7 +15,7 @@ The MotorPH Employee Payroll System is a Java Swing desktop application with sep
 5. Right-click `CP2MS1Grp10.java` and select **Run File**. If prompted for the main class, use `com.mycompany.CP2MS1Grp10`.
 6. If the IDE asks for a working directory, use the project root folder.
 
-## How to Run
+## How to Run in other IDE
 1. Open the **full project folder** in your Java IDE. Do not open individual `.java` files on their own.
 2. In the project explorer, locate the `com.mycompany` package, usually under `src/main/java/com/mycompany/`.
 3. Make sure the required CSV files are in `src/main/java/CSV/`.
